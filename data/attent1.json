@@ -1,0 +1,42 @@
+{
+"name":"中国","value": 9,
+"children":
+[
+	{
+		"name":"浙江","value": 5,
+		"children":
+		[
+			{"name":"杭州", "value": 3,
+			"children":
+			[
+				{"name":"宁波", "value": 2,
+				"children":
+				[
+					{"name":"南宁", "value": 1},
+					{"name":"防城港", "value": 1}
+				]
+				},
+				{"name":"防城港", "value": 1}
+			]
+			},
+			{"name":"宁波", "value": 2,
+			"children":
+			[
+				{"name":"南宁", "value": 1},
+				{"name":"防城港", "value": 1}
+			]
+			}
+		]
+	},
+	{
+		"name":"广西", "value": 2,
+		"children":
+		[
+			{"name":"南宁", "value": 1},
+			{"name":"防城港", "value": 1}
+		]
+	},
+	{"name":"黑龙江", "value": 1},
+	{"name":"新疆", "value": 1}
+]
+}

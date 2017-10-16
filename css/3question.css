@@ -1,0 +1,20 @@
+.nodetext{
+	fill: gray;
+	font-famliy: sans-serif;
+	}
+#s{
+	width: 30%;
+	float: left;
+	clear: left;
+}
+.sum{
+	clear: left;
+	margin-left: 30px;
+}
+.sep1,.sep2,.sep3,.sep4,.sep5,.sep6,.sep7,.sep8,.sep9,.sep10{
+	width: auto;
+	height: auto;
+	float: left;
+	padding-left: 55px;
+	padding-right: 25px;
+}

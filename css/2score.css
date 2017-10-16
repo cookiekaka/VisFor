@@ -1,0 +1,39 @@
+.axis path,
+.axis line,
+.axisY1 path,
+.axisY1 line{
+	fill: none;
+	stroke: gray;
+	stroke-pic2Width: 1;
+	stroke-dasharray: 5,3;
+	shape-rendering: crispEdges;
+}
+.axis text,
+.axisY2 text{
+	font-family: sans-serif;
+	font-size: 12px;
+	fill: gray;		
+}
+.axisY1 text{
+	fill: none;
+}
+.axisY2 path,
+.axisY2 line{
+	fill: none;
+	stroke: none;
+}
+.dashed{
+	fill: none;
+	stroke: #EEEEE0;
+	stroke-pic2Width: 1;
+	stroke-dasharray: 5,3;
+	shape-rendering: crispEdges;
+}
+.rect{
+	fill: red;
+}
+#b5{
+	margin: 8px 0px 8px 0px;
+	background: gray;
+	color: white;
+}

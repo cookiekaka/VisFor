@@ -1,0 +1,33 @@
+.axisY path,
+.axisY line{
+  fill: none;
+  stroke: gray;
+  stroke-pic2Width: 1;
+  stroke-dasharray: 5,3;
+  shape-rendering: crispEdges;
+}
+.axisY text{
+  font-family: sans-serif;
+  font-size: 12px;
+  fill: gray;
+}
+.axisX path,
+.axisX line{
+  fill: none;
+}
+.axisX text{
+  font-family: sans-serif;
+  font-size: 12px;
+  fill: gray;
+}
+.dashed{
+  fill: none;
+  stroke: gray;
+  stroke-pic2Width: 1;
+  stroke-dasharray: 5,3;
+  shape-rendering: crispEdges;
+}
+.area{
+	stroke: white;
+	stroke-width: 0.5px;
+}

@@ -1,0 +1,56 @@
+﻿{
+	"topic": "主题一",
+	"children": 
+	[
+		{"data":"2017-6-2", "dissuss":11},
+		{"data":"2017-6-3", "dissuss":19},
+		{"data":"2017-6-4", "dissuss":14},
+		{"data":"2017-6-5", "dissuss":10},
+		{"data":"2017-6-6", "dissuss":12},
+		{"data":"2017-6-7", "dissuss":8},
+		{"data":"2017-6-8", "dissuss":4},
+		{"data":"2017-6-9", "dissuss":2}
+	]
+},
+{
+	"topic": "主题二",
+	"children": 
+	[
+		{"data":"2017-6-2", "dissuss":8},
+		{"data":"2017-6-3", "dissuss":17},
+		{"data":"2017-6-4", "dissuss":22},
+		{"data":"2017-6-5", "dissuss":28},
+		{"data":"2017-6-6", "dissuss":23},
+		{"data":"2017-6-7", "dissuss":15},
+		{"data":"2017-6-8", "dissuss":12},
+		{"data":"2017-6-9", "dissuss":13}
+	]
+},
+{
+	"topic": "主题三",
+	"children": 
+	[
+		{"data":"2017-6-2", "dissuss":15},
+		{"data":"2017-6-3", "dissuss":12},
+		{"data":"2017-6-4", "dissuss":16},
+		{"data":"2017-6-5", "dissuss":26},
+		{"data":"2017-6-6", "dissuss":15},
+		{"data":"2017-6-7", "dissuss":5},
+		{"data":"2017-6-8", "dissuss":9},
+		{"data":"2017-6-9", "dissuss":11}
+	]
+},
+{
+	"topic": "主题四",
+	"children": 
+	[
+		{"data":"2017-6-2", "dissuss":30},
+		{"data":"2017-6-3", "dissuss":20},
+		{"data":"2017-6-4", "dissuss":13},
+		{"data":"2017-6-5", "dissuss":16},
+		{"data":"2017-6-6", "dissuss":20},
+		{"data":"2017-6-7", "dissuss":25},
+		{"data":"2017-6-8", "dissuss":21},
+		{"data":"2017-6-9", "dissuss":13}
+	]
+}

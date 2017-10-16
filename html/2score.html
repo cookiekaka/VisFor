@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>矩阵图</title>
+	<!-- 引入 Bootstrap -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="../css/2score.css" />
+	<link rel="stylesheet" href="../css/layui.css" />
+</head>
+<body>
+	<div>
+		<div class="buttonn">
+			<div class="btn-group btn-group-xs">
+				<div class="btn btn-default" style="background:gray;color:white;">&nbsp;&nbsp;显示数据<img src="../img/button.png">&nbsp;&nbsp;</div>
+				<button id="b1" type="button" onclick="topicClick()" class="btn btn-default">&nbsp;&nbsp;主题&nbsp;&nbsp;</button>
+				<button id="b2" type="button" onclick="classClick()" class="btn btn-default">&nbsp;&nbsp;发言类型&nbsp;&nbsp;</button>
+			</div>
+		</div>
+		<div class="buttonn">
+			<div class="btn-group btn-group-xs">
+				<div class="btn btn-default" style="background:gray;color:white;">&nbsp;&nbsp;y轴<img src="../img/button.png">&nbsp;&nbsp;</div>
+				<button id="b3" type="button" onclick="dayClick()" class="btn btn-default">&nbsp;&nbsp;每日&nbsp;&nbsp;</button>
+				<button id="b4" type="button" onclick="weekClick()" class="btn btn-default">&nbsp;&nbsp;7天&nbsp;&nbsp;</button>
+			</div>
+		</div>
+		<button id="b5" type="button" onclick="turnClick()" class="btn btn-default btn-xs">横纵切换</button>
+	</div>
+</body>
+<!--[if lt IE 9]>
+   <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+   <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+<![endif]-->
+<script src="../js/jquery.min.js"></script>
+<script src="../js/D3/scoreView.js"></script>
+<script src = "../js/d3.min.js" charset = "utf-8"></script>
+<script src = "../js/DOM/scoreHtml.js"></script>
+</html>

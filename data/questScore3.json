@@ -1,0 +1,71 @@
+{
+"topic":"主题",
+"children":
+[
+	{
+		"topic":"疑问", 
+		"children":
+		[
+			{"value": 90},
+			{"value": 88},
+			{"value": 76},
+			{"value": 60},
+			{"value": 80},
+			{"value": 79},
+			{"value": 91},
+			{"value": 90},
+			{"value": 89},
+			{"value": 66},
+			{"value": 80},
+			{"value": 93},
+			{"value": 68},
+			{"value": 77}
+		]
+	},
+	{
+		"topic":"建议",
+		"children":
+		[
+			{"value": 66},
+			{"value": 87},
+			{"value": 70},
+			{"value": 82},
+			{"value": 90},
+			{"value": 89},
+			{"value": 66},
+			{"value": 80},
+			{"value": 93},
+			{"value": 68},
+			{"value": 77},
+			{"value": 96},
+			{"value": 90},
+			{"value": 91},
+			{"value": 93},
+			{"value": 55},
+			{"value": 80},
+			{"value": 82},
+			{"value": 76},
+			{"value": 81},
+			{"value": 70},
+			{"value": 86}
+		]
+	},
+	{
+		"topic":"肯定",
+		"children":
+		[
+			{"value": 73},
+			{"value": 93},
+			{"value": 81},
+			{"value": 90},
+			{"value": 93},
+			{"value": 55},
+			{"value": 77},
+			{"value": 96},
+			{"value": 90},
+			{"value": 80}
+		
+		]
+	}
+]
+}

@@ -1,0 +1,53 @@
+{
+"name":"中国","value": 20,
+"children":
+[
+	{
+		"name":"浙江","value": 11,
+		"children":
+		[
+			{"name":"杭州", "value": 7,
+			"children":
+			[
+				{"name":"绍兴", "value": 5,
+				"children":
+				[
+					{"name":"绍兴", "value": 1},
+					{"name":"绍兴", "value": 1},
+					{"name":"绍兴", "value": 1},
+					{"name":"绍兴", "value": 1},
+					{"name":"绍兴", "value": 1}
+				]
+				},
+				{"name":"绍兴", "value": 1},
+				{"name":"绍兴", "value": 1}
+			]
+			},
+			{"name":"宁波", "value": 4,
+			"children":
+			[
+				{"name":"绍兴", "value": 1},
+				{"name":"绍兴", "value": 1},
+				{"name":"绍兴", "value": 1},
+				{"name":"绍兴", "value": 1}
+			]
+			}
+		]
+	},
+	{
+		"name":"广西", "value": 8,
+		"children":
+		[
+			{"name":"桂林", "value": 1},
+			{"name":"南宁", "value": 1},
+			{"name":"防城港", "value": 1},
+			{"name":"绍兴", "value": 1},
+			{"name":"绍兴", "value": 1},
+			{"name":"绍兴", "value": 1},
+			{"name":"绍兴", "value": 1},
+			{"name":"绍兴", "value": 1}
+		]
+	},
+	{"name":"黑龙江", "value": 1}
+]
+}
